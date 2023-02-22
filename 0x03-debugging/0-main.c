@@ -5,6 +5,7 @@
  * Return: 0
  */
 int main(void)
+
 {
 	int i;
 
