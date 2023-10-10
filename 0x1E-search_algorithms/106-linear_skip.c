@@ -1,3 +1,8 @@
+/*
+ * File: 106-linear_skip.c
+ * Auth: Emmanuel Nmaju
+ */
+
 #include "search_algos.h"
 
 /**
