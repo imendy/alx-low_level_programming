@@ -1,3 +1,8 @@
+/*
+ * File: 104-advanced_binary.c
+ * Auth: Emmanuel Nmaju
+ */
+
 #include "search_algos.h"
 
 /**
